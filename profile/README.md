@@ -16,9 +16,9 @@ Dhoondlai is an open-source project aimed at helping users find the best prices 
 
 ## 🛒 Current Vendors
 
-| Vendor        | Status     |
-| ------------- | ---------- |
-| Techmatched   | 🟠 In Progress   |
+| Vendor        | Status     | Processors | Motherboards | RAMs | Graphics Card | SSD |
+| ------------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
+| Techmatched   | 🟠 In Progress |  ✔️ |  ❎ | ❎ | ❎ | ❎ |
 
 *More vendors coming soon!*
 
