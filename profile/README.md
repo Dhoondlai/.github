@@ -2,6 +2,8 @@
 
 Dhoondlai is an open-source project aimed at helping users find the best prices for PC parts across various vendors in Pakistan. This project scrapes data from multiple websites and displays it in one central location, making it easier for consumers to compare prices and make informed decisions.
 
+Currently the aim is to list processors.
+
 ## 🚀 Features
 
 - **Comprehensive Scraping**: Scrapes data from multiple vendors in Pakistan to gather the latest prices and product availability.
