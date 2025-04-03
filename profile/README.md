@@ -18,11 +18,14 @@ Currently the aim is to list processors.
 
 ## 🛒 Current Vendors
 
-| Vendor        | Status     | Processors | Motherboards | RAMs | Graphics Card | SSD |
-| ------------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
-| Techmatched   | 🟠 In Progress |  ✔️ |  ❎ | ❎ | ❎ | ❎ |
+| Vendor          | Status         | Processors | Motherboards | RAMs | Graphics Card | SSD |
+| --------------- | -------------- | ---------- | ------------ | ---- | ------------- | --- |
+| Techmatched     | 🟠 In Progress | ✔️         | ❎           | ❎   | ❎            | ❎  |
+| JunaidTech      | 🟠 In Progress | ❎         | ❎           | ❎   | ❎            | ❎  |
+| BuyersPk        | 🟠 In Progress | ❎         | ❎           | ❎   | ❎            | ❎  |
+| RB Tech N Games | 🟠 In Progress | ❎         | ❎           | ❎   | ❎            | ❎  |
 
-*More vendors coming soon!*
+_More vendors coming soon!_
 
 ## 🌍 Contributing
 
