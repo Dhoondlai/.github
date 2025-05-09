@@ -20,16 +20,16 @@ Currently the aim is to list processors.
 
 ## High level infrastructure
 
-![High Level Infrastructure](https://raw.githubusercontent.com/dhoondlai/dhoondlai/main/.github/profile/high-level-infrastructure.png)
+![High Level Infrastructure](./high-level-infrastructure.png)
 
 ## 🛒 Current Vendors
 
 | Vendor          | Status         | Processors | Motherboards | RAMs | Graphics Card | SSD |
 | --------------- | -------------- | ---------- | ------------ | ---- | ------------- | --- |
 | Techmatched     | 🟠 In Progress | ✔️         | ❎           | ❎   | ❎            | ❎  |
-| JunaidTech      | 🟠 In Progress | ❎         | ❎           | ❎   | ❎            | ❎  |
-| BuyersPk        | 🟠 In Progress | ❎         | ❎           | ❎   | ❎            | ❎  |
-| RB Tech N Games | 🟠 In Progress | ❎         | ❎           | ❎   | ❎            | ❎  |
+| JunaidTech      | 🟠 In Progress | ✔️         | ❎           | ❎   | ❎            | ❎  |
+| BuyersPk        | 🟠 In Progress | ✔️         | ❎           | ❎   | ❎            | ❎  |
+| RB Tech N Games | 🟠 In Progress | ✔️         | ❎           | ❎   | ❎            | ❎  |
 
 _More vendors coming soon!_
 
