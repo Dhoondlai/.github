@@ -15,6 +15,12 @@ Currently the aim is to list processors.
 
 - **scrapers**: Contains all the scraper functions.
 - **infra-core**: Manages the infrastructure using Terraform.
+- **backend**: Contains the backend code for the API.
+- **frontend**: Contains the frontend code for the web application.
+
+## High level infrastructure
+
+![High Level Infrastructure](https://raw.githubusercontent.com/dhoondlai/dhoondlai/main/.github/profile/high-level-infrastructure.png)
 
 ## 🛒 Current Vendors
 
